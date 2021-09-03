@@ -1,6 +1,6 @@
-# SlotMachine-HackingChallenge
+# Casino Heist
 
-Welcome to a SlotMachine. You start with 20 USD and you need to somehow bug the machine to get you a shell. 
+Welcome to a Casino Heist. Here is a SlotMachine (boiler), you start with 20 USD and you need to extract the secret code from the machine hosting the program. 
 
 - pwn_server.py: working exploit
 - boiler.c: Challenge code
